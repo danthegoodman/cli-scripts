@@ -1,12 +1,12 @@
 # cli-scripts
 
-An assortment of command line scripts
+An assortment of command line scripts.
 
-## blameStats
+## git/blameStats.sh
 
-Blames all lines of code from the current directory and summarizes it with a count per owner. 
+Blames all lines of code from the current directory and summarizes it with a count per owner.
 
-    $ blameStats
+    $ blameStats.sh
 	 300 Bob
 	  53 Garrett
 	1028 Jim
